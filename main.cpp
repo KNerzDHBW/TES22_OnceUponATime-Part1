@@ -16,7 +16,7 @@ int main() {
                "eine Koenigin, die wuenschten sich nichts sehnlicher als nicht "
                "mehr Koenig und Koenigin sein zu muessen."
             << std::endl
-            << "Sie waren auf der Suche nach einem verlorenen Schatz"
+            << "Sie waren auf der Suche nach einem verlorenen Schatz."
             << std::endl
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
