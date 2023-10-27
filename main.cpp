@@ -54,7 +54,7 @@ int main() {
 
    std::cout << "Der Grund war das Ende der Erdrotation."
    std::cout << "Es war dunkel." << std ::endl;
-   std::cout << "Die Menschen waren verzweifelt." << std::endl;
+   std::cout << "Die Menschen waren verzweifelt, doch sie hatten noch Hoffnung." << std::endl;
 
   /*
    * Viertes Kapitel
