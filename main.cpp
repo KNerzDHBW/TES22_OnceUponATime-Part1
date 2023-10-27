@@ -33,7 +33,7 @@ int main() {
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                     // diesem Satz
 
-   std::cout << "Der Drache flog tag ein tag aus über den Zwergen umher" << std::endl;
+   std::cout << "Der Drache flog Tag ein Tag aus über den Zwergen umher." << std::endl;
   /*
    * Drittes Kapitel
    */
