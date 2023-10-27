@@ -77,7 +77,7 @@ int main() {
                  eines Tage eine Prinzessin hier zu heiraten." << std::endl;
    std::cout << "Allerdings hatte er noch keine."
 
-   std::cout << "Eines Tages ging der Prinz des Landes an den See, um zu baden."
+   std::cout << "Eines Tages ging der Prinz des Landes an den See, um zu baden und Spaß zu haben."
              << std::endl
              << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                            // unter diesem Satz
