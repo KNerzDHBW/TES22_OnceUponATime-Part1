@@ -20,7 +20,7 @@ int main() {
             << std::endl
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
-   std::cout <<"Sie wollen lieber das wahre Leben genießen." << std::endl;
+   std::cout <<"Sie wollen lieber das wahre Leben genießen, als ihren Pflichten als Koenige nachzukommen." << std::endl;
    std::cout << "Doch der Wunsch konnte nicht erfuellt werden!" << std::endl;
 
   /*
@@ -54,7 +54,11 @@ int main() {
 
    std::cout << "Der Grund war das Ende der Erdrotation, die wurde nämlich immer schneller."
    std::cout << "Es war dunkel." << std ::endl;
-   std::cout << "Die Menschen waren verzweifelt, doch sie hatten noch Hoffnung." << std::endl;
+
+   std::cout << "Die Menschen, hunderte an der Zahl, waren verzweifelt,doch sie hatten noch Hoffnung.." << std::endl;
+
+   
+
 
   /*
    * Viertes Kapitel
@@ -84,7 +88,7 @@ int main() {
             << std::endl;
 
   std::cout
-      << "Es waren einmal eine Maus, ein Vogel und ein Bratwurst, die lebten "
+      << "Es waren einmal eine Maus, ein Vogel und eine Bratwurst, die lebten "
          "zusammen in einer kleinen Huette am Rande eines verwunschenen Waldes."
       << std::endl
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
