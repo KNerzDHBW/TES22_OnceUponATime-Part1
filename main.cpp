@@ -16,8 +16,11 @@ int main() {
                "eine Koenigin, die wuenschten sich nichts sehnlicher als nicht "
                "mehr Koenig und Koenigin sein zu muessen."
             << std::endl
+            << "Sie waren auf der Suche nach einem verlorenen Schatz."
+            << std::endl
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
+   std::cout <<"Sie wollen lieber das wahre Leben genießen."
 
   /*
    * Zweites Kapitel
@@ -25,14 +28,18 @@ int main() {
   std::cout << std::endl
             << "Die sieben Zwerge und der Drache" << std::endl
             << std::endl;
-
+   
   std::cout
       << "Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle "
          "Rotkaeppchen nannten, denn es trug immer ein feuerrotes Maentelchen."
-      << std::endl
+      << std::endl;
+  std::cout << "Eines Tages schickte die Mutter Rotkaeppchen zu ihrer kranken "
+               "Grossmutter."
+            << std::endl
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                     // diesem Satz
 
+   std::cout << "Der Drache flog Tag ein Tag aus über den Zwergen umher." << std::endl;
   /*
    * Drittes Kapitel
    */
@@ -42,6 +49,8 @@ int main() {
             << std::endl
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
+   std::cout << "Es war dunkel." << std ::endl;
+   std::cout << "Die Menschen waren verzweifelt." << std::endl;
 
   /*
    * Viertes Kapitel
@@ -55,6 +64,8 @@ int main() {
             << std::endl
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
+   std::cout << "Dieser See war wunderschön." << std::endl;
+   std::cout << "Ein Prinz war sich der Schönheit dieses Sees bewusst." std::endl;
 
   /*
    * Fünftes Kapitel
