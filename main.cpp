@@ -50,6 +50,8 @@ int main() {
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
    std::cout << "Es war dunkel." << std ::endl;
+   std::cout << "Die Menschen waren verzweifelt." << std::endl;
+
   /*
    * Viertes Kapitel
    */
