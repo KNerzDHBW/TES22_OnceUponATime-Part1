@@ -55,7 +55,7 @@ int main() {
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
 
-   std::cout << "Der Grund war das Ende der Erdrotation, die wurde nämlich immer schneller."
+   std::cout << "Der Grund war das Ende der Erdrotation, die wurde nämlich immer schneller.";
    std::cout << "Es war dunkel." << std ::endl;
 
    std::cout << "Die Menschen, hunderte an der Zahl, waren verzweifelt,doch sie hatten noch Hoffnung.." << std::endl;
