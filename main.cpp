@@ -90,7 +90,7 @@ int main() {
             << std::endl;
 
   std::cout
-      << "Es waren einmal eine Maus, ein Vogel und ein Bratwurst, die lebten "
+      << "Es waren einmal eine Maus, ein Vogel und eine Bratwurst, die lebten "
          "zusammen in einer kleinen Huette am Rande eines verwunschenen Waldes."
       << std::endl
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
