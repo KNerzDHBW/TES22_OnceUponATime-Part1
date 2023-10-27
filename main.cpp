@@ -58,6 +58,7 @@ int main() {
    std::cout << "Dieser See war wunderschön, denn er war perfekt in jeder hinsicht." << std::endl;
    std::cout << "Ein Prinz war sich der Schönheit dieses Sees bewusst, und spielte mit dem Gedanken
                  eines Tage eine Prinzessin hier zu heiraten." << std::endl;
+   std::cout << "Allerdings hatte er noch keine."
 
   /*
    * Fünftes Kapitel
