@@ -56,7 +56,8 @@ int main() {
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
    std::cout << "Dieser See war wunderschön, denn er war perfekt in jeder hinsicht." << std::endl;
-   std::cout << "Ein Prinz war sich der Schönheit dieses Sees bewusst." std::endl;
+   std::cout << "Ein Prinz war sich der Schönheit dieses Sees bewusst, und spielte mit dem Gedanken
+                 eines Tage eine Prinzessin hier zu heiraten." << std::endl;
 
   /*
    * Fünftes Kapitel
