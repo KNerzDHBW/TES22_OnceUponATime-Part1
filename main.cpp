@@ -35,7 +35,7 @@ int main() {
          "Rotkaeppchen nannten, denn es trug immer ein feuerrotes Maentelchen."
       << std::endl;
   std::cout << "Eines Tages schickte die Mutter Rotkaeppchen zu ihrer kranken "
-               "Grossmutter."
+               "Grossmutter, um ihr eine Schwarzwälderkirschtorte zu bringen."
             << std::endl
 
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
@@ -90,5 +90,4 @@ int main() {
       << std::endl
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                     // unter diesem Satz
-      std::cout << std::endl << "Die Maus wohnte in einem kleinen Loch in der Tuer der Huette" << std::endl << std::endl;
 }
