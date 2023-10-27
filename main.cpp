@@ -36,6 +36,7 @@ int main() {
   std::cout << "Eines Tages schickte die Mutter Rotkaeppchen zu ihrer kranken "
                "Grossmutter."
             << std::endl
+
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                     // diesem Satz
 
@@ -66,6 +67,11 @@ int main() {
                           // unter diesem Satz
    std::cout << "Dieser See war wunderschön." << std::endl;
    std::cout << "Ein Prinz war sich der Schönheit dieses Sees bewusst." std::endl;
+
+   std::cout << "Eines Tages ging der Prinz des Landes an den See."
+             << std::endl
+             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
+                           // unter diesem Satz
 
   /*
    * Fünftes Kapitel
