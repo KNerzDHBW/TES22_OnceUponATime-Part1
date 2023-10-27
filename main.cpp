@@ -16,9 +16,12 @@ int main() {
                "eine Koenigin, die wuenschten sich nichts sehnlicher als nicht "
                "mehr Koenig und Koenigin sein zu muessen."
             << std::endl
-   << "Sie waren auf der Suche nach einem verlorenen Schatz." << std::endl
-   << "Sie wollen lieber das wahre Leben genießen." << std::endl
-   << "Doch der Wunsch konnte nicht erfuellt werden!" << std::endl;
+            << "Sie waren auf der Suche nach einem verlorenen Schatz."
+            << std::endl
+            << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
+                          // unter diesem Satz
+   std::cout <<"Sie wollen lieber das wahre Leben genießen." << std::endl;
+   std::cout << "Doch der Wunsch konnte nicht erfuellt werden!" << std::endl;
 
   /*
    * Zweites Kapitel
@@ -74,7 +77,7 @@ int main() {
                  eines Tage eine Prinzessin hier zu heiraten." << std::endl;
    std::cout << "Allerdings hatte er noch keine."
 
-   std::cout << "Eines Tages ging der Prinz des Landes an den See, um zu baden."
+   std::cout << "Eines Tages ging der Prinz des Landes an den See, um zu baden und Spaß zu haben."
              << std::endl
              << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                            // unter diesem Satz
@@ -87,7 +90,7 @@ int main() {
             << std::endl;
 
   std::cout
-      << "Es waren einmal eine Maus, ein Vogel und ein Bratwurst, die lebten "
+      << "Es waren einmal eine Maus, ein Vogel und eine Bratwurst, die lebten "
          "zusammen in einer kleinen Huette am Rande eines verwunschenen Waldes."
       << std::endl
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
