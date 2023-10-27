@@ -79,6 +79,7 @@ int main() {
    * Fünftes Kapitel
    */
   std::cout << "Die Maus, der Vogel und die Bratwurst" << std::endl
+            << "Sie alle haben Fleisch gemeinsam."
             << std::endl;
 
   std::cout
