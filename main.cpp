@@ -31,17 +31,20 @@ int main() {
             << std::endl;
    
   std::cout
-      << "Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle "
-         "Rotkaeppchen nannten, denn es trug immer ein feuerrotes Maentelchen."
-      << std::endl;
+            << "Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle "
+                "Rotkaeppchen nannten, denn es trug immer ein feuerrotes Maentelchen."
+            << std::endl;
+
   std::cout << "Eines Tages schickte die Mutter Rotkaeppchen zu ihrer kranken "
                "Grossmutter, um ihr eine Schwarzwälderkirschtorte zu bringen."
             << std::endl
 
-      << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
+            << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                     // diesem Satz
 
-   std::cout << "Der Drache flog eines Tages über den Zwergen umher." << std::endl;
+   std::cout << "Rotkappchen schlenderte auf dem Weg zur Großmutter sorglos durch die Gegegnd, als ploetzlich ein Drache angeflogen kam und ihren Kopf abgebissen hat. " << std::endl;
+  
+  
   /*
    * Drittes Kapitel
    */
