@@ -42,6 +42,10 @@ int main() {
             << std::endl
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
+  std::cout << "Die Menschen waren verzweifelt, denn sie wussten nicht, wie "
+               "sie die Sonne wieder zum Leuchten bringen konnten."
+            << std::endl
+            << std::endl;
 
   /*
    * Viertes Kapitel
@@ -55,6 +59,7 @@ int main() {
             << std::endl
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
+   
 
   /*
    * Fünftes Kapitel
