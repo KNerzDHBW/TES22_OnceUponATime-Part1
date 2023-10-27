@@ -53,7 +53,7 @@ int main() {
                           // unter diesem Satz
 
    std::cout << "Der Grund war das Ende der Erdrotation, die wurde nämlich immer schneller."
-   std::cout << "Es war dunkel." << std ::endl;
+   std::cout << "Es war dunkel, da die Erde sich so schnell drehte." << std ::endl;
    std::cout << "Die Menschen waren verzweifelt, doch sie hatten noch Hoffnung." << std::endl;
 
   /*
