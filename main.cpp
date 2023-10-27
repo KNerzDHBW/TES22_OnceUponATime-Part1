@@ -69,3 +69,15 @@ int main() {
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                     // unter diesem Satz
 }
+  /*
+   * Fünftes Kapitel
+   */
+  std::cout << "Das verwunschene Schloss" << std::endl
+            << std::endl;
+
+  std::cout
+      << "Vor langer Zeit lebte ein Adliger in seinem Schloss Schreckus"
+      << std::endl
+      << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
+                    // unter diesem Satz
+}
