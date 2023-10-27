@@ -20,7 +20,7 @@ int main() {
             << std::endl
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
-   std::cout <<"Sie wollen lieber das wahre Leben genießen, als in ihren Pflichten als Koenige nachzukommen." << std::endl;
+   std::cout <<"Sie wollen lieber das wahre Leben genießen, als ihren Pflichten als Koenige nachzukommen." << std::endl;
    std::cout << "Doch der Wunsch konnte nicht erfuellt werden!" << std::endl;
 
   /*
