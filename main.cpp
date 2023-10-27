@@ -16,12 +16,9 @@ int main() {
                "eine Koenigin, die wuenschten sich nichts sehnlicher als nicht "
                "mehr Koenig und Koenigin sein zu muessen."
             << std::endl
-            << "Sie waren auf der Suche nach einem verlorenen Schatz."
-            << std::endl
-            << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
-                          // unter diesem Satz
-   std::cout <<"Sie wollen lieber das wahre Leben genießen." << std::endl;
-   std::cout << "Doch der Wunsch konnte nicht erfuellt werden!" << std::endl;
+   << "Sie waren auf der Suche nach einem verlorenen Schatz." << std::endl
+   << "Sie wollen lieber das wahre Leben genießen." << std::endl
+   << "Doch der Wunsch konnte nicht erfuellt werden!" << std::endl;
 
   /*
    * Zweites Kapitel
