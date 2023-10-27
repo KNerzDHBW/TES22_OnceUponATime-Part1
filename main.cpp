@@ -85,4 +85,5 @@ int main() {
       << std::endl
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                     // unter diesem Satz
+      std::cout << std::endl << "Die Maus wohnte in einem kleinen Loch in der Tuer der Huette" << std::endl << std::endl;
 }
