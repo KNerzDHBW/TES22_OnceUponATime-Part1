@@ -70,7 +70,7 @@ int main() {
                     // unter diesem Satz
 }
   /*
-   * Fünftes Kapitel
+   * Sechstes Kapitel
    */
   std::cout << "Das verwunschene Schloss" << std::endl
             << std::endl;
