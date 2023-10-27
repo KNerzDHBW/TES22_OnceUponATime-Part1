@@ -12,9 +12,9 @@ int main() {
    */
   std::cout << std::endl << "Der verlorene Schatz" << std::endl << std::endl;
 
-  std::cout << "Es lebte einmal in einem weit entfernten Land ein Koenig und "
-               "eine Koenigin, die wuenschten sich nichts sehnlicher als nicht "
-               "mehr Koenig und Koenigin sein zu muessen."
+  std::cout << "Es lebte einmal in einem weit entfernten Land Herrschende
+               , die wuenschten sich nichts sehnlicher als nicht "
+               "Herschende sein zu muessen."
             << std::endl
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
@@ -55,6 +55,7 @@ int main() {
             << std::endl
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
+   std::cout << "Dieser See war wunderschön" << std::endl;
 
   /*
    * Fünftes Kapitel
