@@ -56,6 +56,12 @@ int main() {
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
 
+
+      std::cout
+      << "Ein kleiner Frosch wagte sich mutig in den gefährlichen Wald, um seinen Freunden das rettende Wasser zu bringen."
+      << std::endl
+      << std::endl; 
+
   /*
    * Fünftes Kapitel
    */
@@ -69,17 +75,3 @@ int main() {
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                     // unter diesem Satz
 
-
- /*
-   * Sechsts Kapitel
-   */
-  std::cout << "Der tapfere kleine Frosch" << std::endl
-            << std::endl;
-
-  std::cout
-      << "Ein kleiner Frosch wagte sich mutig in den gefährlichen Wald, um seinen Freunden das rettende Wasser zu bringen."
-      << std::endl
-      << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
-                    // unter diesem Satz
-
-}
